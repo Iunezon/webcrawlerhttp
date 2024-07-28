@@ -1,0 +1,23 @@
+{
+  "name": "webcrawlerhttp",
+  "version": "1.0.0",
+  "description": "Project for the Learn og HTTP course",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iunezon/webcrawlerhttp"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iunezon/webcrawlerhttp/issues"
+  },
+  "homepage": "https://github.com/Iunezon/webcrawlerhttp#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
