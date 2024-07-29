@@ -5,7 +5,7 @@
   "main": "main.js",
   "scripts": {
     "start": "node main.js",
-    "test": "jest"
+    "test": "/home/piccinnor/.nvm/versions/node/v21.2.0/bin/jest"
   },
   "repository": {
     "type": "git",
