@@ -4,7 +4,7 @@
   "description": "Project for the Learn og HTTP course",
   "main": "main.js",
   "scripts": {
-    "start": "node main.js",
+    "start": "node --no-warnings main.js",
     "test": "/home/piccinnor/.nvm/versions/node/v21.2.0/bin/jest"
   },
   "repository": {
